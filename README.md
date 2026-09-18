@@ -1,13 +1,41 @@
-<h1 align="center">Hi 👋, I'm yahya</h1>
-<h3 align="center">A passionate frontend and backend developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Yahya Kayaal</h1>
+<h3 align="center">Python Backend & LLM Applications Developer</h3>
+<p align="center">MSc Artificial Intelligence @ ITMO University 🇷🇺 · BSc Software Engineering @ Ural Federal University</p>
 
-- 📫 How to reach me **yahyaeren21@gmail.com**
-
-- ⚡ Fun fact **learning fast**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  <a href="https://www.linkedin.com/in/yahya-kayaal/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://kayaal.is-a.dev"><img src="https://img.shields.io/badge/Portfolio-7C3AED?style=flat&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://t.me/kayaal34"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white" alt="Telegram"/></a>
+  <a href="mailto:yahyaeren34@yandex.ru"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+### 🔭 What I do
+- Build **backend services and LLM-powered apps** with Python: FastAPI, Pydantic, PostgreSQL, Redis, LangChain, OpenAI API
+- Ship **mobile apps with Flutter** (Subscription Hunter is on Google Play, FlipRU is in closed testing)
+- Build **web apps** with React, TypeScript and Supabase for freelance clients
+- Based in Istanbul / Saint Petersburg. Native Turkish, Russian C1, English B2
+
+### 🛠 Tech stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgres,redis,docker,git,github,githubactions,linux&theme=dark" alt="backend"/><br/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,ts,js,html,css,supabase,cs,dotnet&theme=dark" alt="frontend and mobile"/>
+</p>
+
+### 🚀 Featured projects
+| Project | What it is | Stack |
+|---|---|---|
+| [AI Trip Planner](https://github.com/kayaal34/MyAiTripPlanner) | Graduation project: LLM travel itinerary generator with Google Maps routes | FastAPI, LangChain, OpenAI |
+| [Değerix](https://github.com/kayaal34/degerix) | Land valuation for Turkey from cadastre, OSM and Central Bank data | FastAPI, Leaflet, pytest |
+| [TZ Reviewer](https://github.com/kayaal34/aitalenthub-hackathon) | Technical-spec reviewer built at AI Product Hack (MTS case) | Python, LLM |
+| [FlipRU](https://github.com/kayaal34/FlipRU) | Turkish-Russian vocabulary app, 8,000+ words, A1-C1 | Flutter, Dart |
+| [Subscription Hunter](https://github.com/kayaal34/subscriptionHunter) | Subscription tracker on Google Play | Flutter, Dart |
+| [Emotion Detection](https://github.com/kayaal34/emotion-detection) | Facial emotion recognition | Python, TensorFlow |
+
+### 📊 GitHub stats
+<p>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kayaal34&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayaal34&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
+</p>
+
+### 🎯 Currently
+Looking for a junior backend / LLM developer role (hybrid in Istanbul or remote) and learning RAG, agents and production LLM systems.
