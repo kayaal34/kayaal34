@@ -31,11 +31,5 @@
 | [Subscription Hunter](https://github.com/kayaal34/subscriptionHunter) | Subscription tracker on Google Play | Flutter, Dart |
 | [Emotion Detection](https://github.com/kayaal34/emotion-detection) | Facial emotion recognition | Python, TensorFlow |
 
-### 📊 GitHub stats
-<p>
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=kayaal34&show_icons=true&theme=tokyonight&hide_border=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kayaal34&layout=compact&theme=tokyonight&hide_border=true" alt="languages"/>
-</p>
-
 ### 🎯 Currently
 Looking for a junior backend / LLM developer role (hybrid in Istanbul or remote) and learning RAG, agents and production LLM systems.
