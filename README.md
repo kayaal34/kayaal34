@@ -1,6 +1,7 @@
 ## Yahya Kayaal
 
 Python backend and LLM applications developer.
+
 MSc Artificial Intelligence, ITMO University · BSc Software Engineering, Ural Federal University
 
 [LinkedIn](https://www.linkedin.com/in/yahya-kayaal/) · [Portfolio](https://kayaal.is-a.dev) · [Telegram](https://t.me/kayaal34) · [Email](mailto:yahyaeren34@yandex.ru)
